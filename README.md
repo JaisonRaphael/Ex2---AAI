@@ -1,9 +1,3 @@
-<H3>Enter Name</H3> JAISON RAPHAEL V
-<H3>Enter Register No.</H3> 212221230038
-<H3>Experiment 2</H3>
-<H3>Date</H3>
-<h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
-
 ## Aim:
 To implement the inference Burglary P(B| j,⥗m) in alarm problem by using Variable Elimination method in Python.
 
@@ -18,6 +12,8 @@ Step 6: Perform exact inference using the defined evidence and query variables.<
 Step 7: Print the results.<br>
 
 ## Program :
+NAME : JAISON RAPHAEL V
+REG NO : 212221230038
 
 # Import required libraries
 from pgmpy.models import BayesianNetwork
